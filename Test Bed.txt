@@ -1,0 +1,13 @@
+Test Bed:
+
+Web Server - IIS/Apache
+Database - MS SQL
+OS - Windows/ Linux
+Browser - IE/FireFox/Chrome
+Java version : Java EE 1.5
+Test Data
+
+java program login screen validation home work.
+Summary + 
+
+ 
